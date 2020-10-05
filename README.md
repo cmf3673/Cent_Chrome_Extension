@@ -1,4 +1,3 @@
-# Cent_Chrome_Extension
 Centralization Chrome Extension 
 ================================
 
